@@ -1,6 +1,6 @@
 ## 葫芦娃大战妖怪(Final Project)
 
-![show](https://github.com/turncoat54/java-2018f-homework/blob/master/Final%20Project/%E6%B8%A9%E5%AE%97%E5%84%92-161220133/image_readme/show.gif)
+![](image_readme/show.gif)
 
 
 
@@ -40,7 +40,7 @@
 
 #### 设计思路：
 
-![class](https://github.com/turncoat54/java-2018f-homework/blob/master/Final%20Project/%E6%B8%A9%E5%AE%97%E5%84%92-161220133/image_readme/class.png)
+![class](image_readme/class.png)
 
 
 
